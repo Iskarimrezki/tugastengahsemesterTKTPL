@@ -8,5 +8,5 @@ Sebuah aplikasi sederhana yang bertujuan sebagai catatan yang mempunyai dua fung
 
 ## Tampilan Aplikasi
 
-![Screenshot](splash_screen.png)  ![Screenshot](Main_Menu.png)  ![Screenshot](Drawer_menu.png)
+![Screenshot](gradle/splash_screen.png)  ![Screenshot](gradle/Main_Menu.png)  ![Screenshot](gradle/Drawer_menu.png)
 
